@@ -12,4 +12,3 @@ RUN javac HelloDocker.java
 
 # Run the program when the container starts
 CMD ["java", "HelloDocker"]
-
